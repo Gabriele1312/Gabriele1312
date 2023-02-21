@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWE5YTg5ZWU4ODdmODgyMWQzMzQyZWMxYzc5ZTZmMzg3Y2VmOWVhYyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="100"/>
 </div>
 
 <div id="badges" align= "center">
@@ -12,7 +12,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
+I'm a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Italy.
 - :telescope: I’m studying at Insubria University in Varese.
 - :zap: In my free time, i like read tech articles and play any team sport.
 - :mailbox:How to reach me: [lele.sassi9@gmail.com](mailto:lele.sassi9@gmail.com).
@@ -22,6 +22,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -31,4 +32,7 @@ I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriele1312&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele1312&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
