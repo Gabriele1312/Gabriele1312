@@ -37,5 +37,10 @@ I'm a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpO
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriele1312&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### :file_folder: My Projects :
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/user/repo)
+
 
 
