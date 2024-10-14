@@ -40,7 +40,9 @@ I'm a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :file_folder: My Projects :
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Gabriele1312/University-Projects)
+🌟 **[University Projects Repository](https://github.com/Gabriele1312/University-Projects)**  
+[![GitHub Repo](https://img.shields.io/badge/View-Repository-blue?logo=github)](https://github.com/Gabriele1312/University-Projects)  
+This repository contains a collection of my university projects related to IoT, data security, and machine learning. Explore and contribute!
 
 
 
