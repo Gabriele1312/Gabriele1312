@@ -17,7 +17,7 @@ I'm a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpO
 - :telescope: I’m studying at Insubria University in Varese.
 - 🌱 I’m currently learning Java, algorithms and data structure.
 - :zap: In my free time, i like read tech articles and play any team sport.
-- :mailbox:How to reach me: [lele.sassi9@gmail.com](mailto:lele.sassi9@gmail.com).
+- :mailbox: How to reach me: [lele.sassi9@gmail.com](mailto:lele.sassi9@gmail.com).
 
 ---
 
