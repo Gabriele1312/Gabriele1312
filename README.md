@@ -40,7 +40,7 @@ I'm a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpO
 ---
 
 ### :file_folder: My Projects :
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/user/repo)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Gabriele1312/University-Projects)
 
 
 
